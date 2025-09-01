@@ -1,29 +1,61 @@
-# 👋 Hey there! I'm Pravallika Nunna
+# 👋 Hey there! I'm Pravallika Nunna  
 
-🎓 I'm a Computer Science undergrad specializing in **AI & Data Science** at *Shri Vishnu Engineering College for Women*.
+### 🔐 A curious learner with a love for security  
+### 💻 Experienced in backend development and database management  
+Working with **Express.js, Node.js, and Flask (Python)**.  
 
-🔐 Passionate about building **secure, intelligent systems** from diving deep into **AI Security**, **Cloud & Web Security**, and **Cybersecurity** to crafting full-stack apps using the **MERN stack** and **Python** 🐍.
+✨ Also an **astrophile** - passionate about space!  
 
-💻 I’ve built cool projects like:
-- 💼 A job portal with real-time dashboards
-- 🔐 A password manager that follows OWASP guidelines
-- 🍽️ A personalized recipe generator desktop app
+---
 
-🧠 Currently exploring:
-- 🤖 **Agentic AI** and reasoning systems  
-- ⛓️ **Blockchain** and smart contracts  
-- ⚛️ **Quantum Security** and its future impact
+## 🛠 Languages and Tools  
 
-💡 I love turning curiosity into code, breaking things to understand them, and collaborating with others to build secure tech for the future.
-
-📬 Let's connect and create something awesome together! 🚀  
-[🔗 LinkedIn](https://www.linkedin.com/in/pravallika-nunna-15a539255/) • 📧 pravallikaseshasai@gmail.com
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pravallika-nunna&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravallika-nunna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=pravallika-nunna&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravallika-nunna&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo" />
 </div>
 
-###
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pravallika-nunna&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pravallika-nunna&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pravallika-nunna&theme=dracula&row=1&margin-w=8&margin-h=8" height="120" alt="trophies graph" />
+</div>
+
+---
+
+## 📈 Activity Graph  
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pravallika-nunna&radius=16&theme=react&area=true" height="300" alt="activity graph" />
+</div>
+
+---
+
+📬 Let’s connect and create something awesome together! 🚀  
+[🔗 LinkedIn](https://www.linkedin.com/in/pravallika-nunna-15a539255/) • 📧 pravallikaseshasai@gmail.com  
